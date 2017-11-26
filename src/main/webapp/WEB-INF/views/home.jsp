@@ -8,9 +8,9 @@
 	<div class="row-fluid">
 		<div class="span10 offset1">
 
-			<h1>
+			<h2>
 				Hello world!
-			</h1>
+			</h2>
 		
 			<div>
 				<p class="well">
